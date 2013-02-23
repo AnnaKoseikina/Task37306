@@ -1,5 +1,0 @@
-Full name
-Login and ID
-Assignment took 2 days
-Easy was to modify class Card
-Difficult was work with files
